@@ -126,7 +126,10 @@ http://127.0.0.1:8000 → Frontend http://127.0.0.1:8000/docs → Swagger UI
 
 ## 👨‍💻 Author   
 **Ramesh Gehlot**   
-[GitHub](https://github.com/rameshgehlot76)   
+
+ [![GitHub](https://img.shields.io/badge/GitHub-rameshgehlot76-181717?style=flat&logo=github)](https://github.com/rameshgehlot76)
+
+---
 
 Built with dedication 🚀
 
