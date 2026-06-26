@@ -133,3 +133,5 @@ http://127.0.0.1:8000 → Frontend http://127.0.0.1:8000/docs → Swagger UI
 
 Built with dedication 🚀
 
+> ⭐ If you found this useful, consider starring the repo!
+
